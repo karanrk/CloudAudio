@@ -1,7 +1,6 @@
 # Cloud Audio Capture
 
-### The Goal of this project is to successfully capture Audio data with maker kit microphone and develop low pass filter and capture 
-data upto maximum frequency of 22Khz.
+### The Goal of this project is to successfully capture Audio data with maker kit microphone and develop low pass filter and capture data upto maximum frequency of 22Khz.
 
 ## Specifics
 1. include an analog low­pass filter that reduces frequencies above approximately 8KHz.To use technical terms, the ­3dB “cutoff frequency” should be between 7.5KHz and
